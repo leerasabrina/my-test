@@ -1,0 +1,19 @@
+.low{
+   margin: 50px;
+   box-shadow: 0px 5px 10px greenyellow;
+   background-image: url('../flower.jpg');
+}
+
+/* .low{
+    background-image: url('../flower.jpg.jpg');
+} */
+/* .l{
+    background-image: url('pic.png');
+    
+    color: rgb(233, 236, 239);
+  
+}
+.low{
+   background-color: rgba(149, 68, 225);
+   background-image: url('pic.png');
+} */
